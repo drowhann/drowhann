@@ -1,5 +1,5 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=drowhannn)](https://github.com/drowhannn)
-[![GitHub Followers](https://img.shields.io/github/followers/drowhannn?label=Followers&style=social)](https://github.com/drowhannn?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=drowhann)](https://github.com/drowhann)
+[![GitHub Followers](https://img.shields.io/github/followers/drowhann?label=Followers&style=social)](https://github.com/drowhann?tab=followers)
 ![Profile Image](https://i.imgur.com/iXuL1HG.png)
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohan
@@ -20,12 +20,12 @@
 [<img src="https://img.icons8.com/color/48/000000/django.png" width="40" height="40" />](https://www.djangoproject.com/)
 
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Dhimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=drowhannn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Dhimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=drowhann&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 ## 📊 My Github Stats
-[![Rohan Dhimal's Github Stats](https://github-readme-stats.vercel.app/api?username=drowhannn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/drowhannn/github-readme-stats)
-[![Rohan Dhimal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drowhannn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/drowhannn/github-readme-stats)
+[![Rohan Dhimal's Github Stats](https://github-readme-stats.vercel.app/api?username=drowhann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/drowhann/github-readme-stats)
+[![Rohan Dhimal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drowhann&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/drowhann/github-readme-stats)
 
 <br/>
 
